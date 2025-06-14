@@ -1,0 +1,5 @@
+PATH_ICONBITMAP = "images/icon_app.ico"
+PATH_IMG_OPEN_ARCHIVE = "images/open_archive.png"
+PATH_IMG_SAVE_ARCHIVE = "images/save_archive.png"
+PATH_IMG_RUN_CODE = "images/run_code.png"
+PATH_IMG_EXIT_PROGRAM = "images/exit_program.png"
