@@ -73,16 +73,12 @@ pip install pillow
 python __app__.py
 ```
 
+## 👥 Autor
+
+- **João Victor Alexandre Almeida**
+
 ## 💡 Observações
 
 - O terminal integrado mostra tanto a saída padrão (`stdout`) quanto os erros (`stderr`) dos códigos Python executados.
 - A interface foi projetada para ser simples, prática e intuitiva.
 - Todos os caminhos de imagens estão centralizados no arquivo `consts/const.py`.
-
-## 👥 Autor
-
-- **João Victor Alexandre Almeida**
-
-## 📄 Licença
-
-Este projeto está sob licença MIT - consulte o arquivo LICENSE para mais detalhes.
