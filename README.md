@@ -52,7 +52,7 @@ ide_tkinter/
 1. Clone o repositório ou baixe o projeto.
 
 ```bash
-git clone https://github.com/seu-usuario/ide_tkinter.git
+git clone https://github.com/joaovictor0209/ide_tkinter.git
 ```
 
 2. Acesse a pasta do projeto.
